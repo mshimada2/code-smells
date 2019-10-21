@@ -13,3 +13,5 @@ if( example == "good" )
 }
 ```
 * [Comments](comments.md)
+* [Dead Code](dead-code.md)
+
