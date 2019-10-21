@@ -14,5 +14,7 @@ if( example == "good" )
 ```
 
 * [Comments](comments.md)
+* [Conditional Complexity](conditional-complexity.md)
 * [Dead Code](dead-code.md)
+* [Inconsistent Names](inconsistent-names.md)
 * [Shotgun Surgery](shotgun-surgery.md)
