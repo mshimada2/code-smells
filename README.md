@@ -13,3 +13,5 @@ if( example == "good" )
 }
 ```
 * [Combinatorial Explosion](combinatorial-explosion.md)
+* [Comments](comments.md)
+* [Dead Code](dead-code.md)
