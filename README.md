@@ -12,6 +12,6 @@ if( example == "good" )
   //do nothing
 }
 ```
+* [Combinatorial Explosion](combinatorial-explosion.md)
 * [Comments](comments.md)
 * [Dead Code](dead-code.md)
-
