@@ -1,6 +1,6 @@
-#Duplicated Code
+# Duplicated Code
 
-##Example
+## Example
 In the following two code chunks, we doing something very similar: pulling from the 'tasks' database and then just manipulating the data in two different ways.
 ```{JavaScript}
 componentWillMount() {
