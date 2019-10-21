@@ -22,8 +22,8 @@ componentWillMount() {
             completed: tasks[item].completed,
             key: item
           });
-          ...
-          ```
+```
+          
 ```{JavaScript}
 componentWillMount() {
       const taskref = firebase.database().ref(`tasks/`);
