@@ -13,6 +13,7 @@ if( example == "good" )
 }
 ```
 
+* [Combinatorial Explosion](combinatorial-explosion.md)
 * [Comments](comments.md)
 * [Conditional Complexity](conditional-complexity.md)
 * [Dead Code](dead-code.md)
