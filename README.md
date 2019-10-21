@@ -12,6 +12,6 @@ if( example == "good" )
   //do nothing
 }
 ```
-
+* [Comments](comments.md)
 * [Dead Code](dead-code.md)
 
