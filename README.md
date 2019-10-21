@@ -14,4 +14,4 @@ if( example == "good" )
 ```
 
 * [Dead Code](dead-code.md)
-
+* [Type Embedded](type-embed.md)
