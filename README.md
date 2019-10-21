@@ -13,4 +13,6 @@ if( example == "good" )
 }
 ```
 
+* [Comments](comments.md)
+* [Dead Code](dead-code.md)
 * [Shotgun Surgery](shotgun-surgery.md)
